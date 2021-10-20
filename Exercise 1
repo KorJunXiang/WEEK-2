@@ -14,6 +14,7 @@ System.out.println("Taking a nap in the afternoon if no classes at around 3pm");
 System.out.println("Doing assignment given by lecturer");
 System.out.println("Playing games for a while for relax");
 System.out.println("See if got household work to do and done it");
+System.out.println("Bathing");
 System.out.println("Have dinner around 6pm");
 System.out.println("Do my programming work at 7pm");
 System.out.println("Rest for half hour at 8pm");
